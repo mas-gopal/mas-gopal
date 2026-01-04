@@ -1,16 +1,16 @@
 <h6 align="center">
-  <a href="mailto:masatfal.work@gmail.com">masatfal.work@gmail.com</a>
+  <a href="mailto:masgopal.dev@gmail.com">masgopal.dev@gmail.com</a>
 </h6>
 
 <h1 align="center">
-  Hi, I'm Mas Atfal!
+  Hi, I'm Gopal!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muchammad-athfal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="muchammad-athfal" />
+  <img src="https://komarev.com/ghpvc/?username=mas-gopal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="mas-gopal" />
 </p>
 
 ## 🌐 Connect with me
@@ -67,7 +67,7 @@
 ---
 
 ## 🏆 Github Profile Trophy
-<a href="https://github.com/mas-gopal/mas-gopal">
+<a href="https://github.com/mas-gopal">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=mas-gopal&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
