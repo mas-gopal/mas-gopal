@@ -10,11 +10,11 @@
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mas-gopal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="mas-gopal" />
+  <img src="https://komarev.com/ghpvc/?username=masgoppall&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="masgoppall" />
 </p>
 
 ## 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://instagram.com/mas_atfal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muchammad-athfal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mas-gopal) 
+[![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://instagram.com/mas_atfal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muchammad-athfal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@masgoppall) 
 
 ## 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -67,8 +67,8 @@
 ---
 
 ## 🏆 Github Profile Trophy
-<a href="https://github.com/mas-gopal">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mas-gopal&column=8&theme=gruvbox&no-frame=true"/>
+<a href="https://github.com/masgoppall">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=masgoppall&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 ---
@@ -76,11 +76,11 @@
 ## 📈 GitHub Stats
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mas-gopal&theme=react&hide_border=false&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-gopal&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=masgoppall&theme=react&hide_border=false&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masgoppall&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <br><br>
 </div>
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mas-gopal&theme=react&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masgoppall&theme=react&hide_border=false" />
 </div>
